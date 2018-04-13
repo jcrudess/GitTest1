@@ -11,6 +11,9 @@ namespace GitTest1
         static void Main(string[] args)
         {
             Console.WriteLine("test GIT repoa");
+            TestClass test = new TestClass();
+
+            Console.WriteLine(test.testich);
         }
     }
 }

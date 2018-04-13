@@ -8,5 +8,6 @@ namespace GitTest1
 {
     class TestClass
     {
+        public int testich = 24234;
     }
 }
